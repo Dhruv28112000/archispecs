@@ -1,0 +1,10 @@
+google-genai
+ollama
+pydantic>=2
+pymupdf
+mcp<2  # v2 renamed FastMCP -> MCPServer; CLAUDE.md targets the v1 FastMCP API
+streamlit
+gherkin-official
+python-dotenv
+chromadb
+pytest
